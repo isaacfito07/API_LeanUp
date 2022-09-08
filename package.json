@@ -1,5 +1,5 @@
 {
-  "name": "introduccion_api",
+  "name": "api_leanup",
   "version": "1.0.10",
   "description": "Practica 3, express y api",
   "main": "app.js",
@@ -19,5 +19,6 @@
   "dependencies": {
     "express": "^4.18.1",
     "mysql": "^2.18.1"
-  }
+  },
+  "devDependencies": {}
 }
